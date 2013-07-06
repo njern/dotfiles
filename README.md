@@ -1,4 +1,4 @@
 dotfiles
 ========
 
-Dotfiles for my dev environments
+Dotfiles for my dev (Linux) environments
